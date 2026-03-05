@@ -1,0 +1,132 @@
+===================================================
+  DIGITAL TRAVEL GUIDE — IMAGE UPLOAD GUIDE
+  Upload all images to your /uploads/ folder
+  Recommended size: 800 x 530 px (landscape)
+===================================================
+
+---------------------------------------------------
+  ASIA  (6 images)
+---------------------------------------------------
+
+  asia-kyoto.jpg
+  → Photo of: Bamboo grove path in Arashiyama, Kyoto Japan
+    OR: Red torii gates of Fushimi Inari shrine, Kyoto
+
+  asia-bali.jpg
+  → Photo of: Green terraced rice paddies in Ubud, Bali
+    OR: Traditional Balinese Hindu temple with misty background
+
+  asia-halong.jpg
+  → Photo of: Limestone karst islands rising from green water
+    Ha Long Bay, Vietnam
+
+  asia-petra.jpg
+  → Photo of: The Treasury (Al-Khazneh) carved into red rock cliffs
+    Petra, Jordan
+
+  asia-cappadocia.jpg
+  → Photo of: Hot-air balloons floating over rocky fairy chimneys at sunrise
+    Cappadocia, Turkey
+
+  asia-angkor.jpg
+  → Photo of: Angkor Wat temple towers reflected in a pool at sunrise
+    Siem Reap, Cambodia
+
+---------------------------------------------------
+  AFRICA  (6 images)
+---------------------------------------------------
+
+  africa-serengeti.jpg
+  → Photo of: Wildebeest herd on open golden savannah plains
+    OR: Lion resting under an acacia tree, Serengeti, Tanzania
+
+  africa-victoria.jpg
+  → Photo of: Victoria Falls waterfall with mist rising from the gorge
+    Zambia / Zimbabwe border
+
+  africa-marrakech.jpg
+  → Photo of: Colourful spice market stalls or mosaic courtyard in Marrakech
+    OR: Djemaa el-Fna square at dusk, Morocco
+
+  africa-kilimanjaro.jpg
+  → Photo of: Snow-capped peak of Kilimanjaro above clouds or savannah
+    Tanzania
+
+  africa-okavango.jpg
+  → Photo of: Mokoro canoe on waterway through papyrus reeds
+    OR: Elephant herd in floodplains, Okavango Delta, Botswana
+
+  africa-sahara.jpg
+  → Photo of: Large golden sand dunes in the Sahara at sunset
+    Algeria or Morocco
+
+---------------------------------------------------
+  EUROPE  (6 images)
+---------------------------------------------------
+
+  europe-santorini.jpg
+  → Photo of: Whitewashed buildings and blue-domed church
+    above the caldera, Santorini, Greece
+
+  europe-amalfi.jpg
+  → Photo of: Colourful village of Positano on cliffside above blue sea
+    Amalfi Coast, Italy
+
+  europe-prague.jpg
+  → Photo of: Charles Bridge with Gothic towers and Prague Castle spires
+    OR: Old Town Square rooftops, Prague, Czech Republic
+
+  europe-highlands.jpg
+  → Photo of: Misty loch with mountains and heather, Scottish Highlands
+    OR: Eilean Donan Castle on a small island, Scotland
+
+  europe-dubrovnik.jpg
+  → Photo of: Medieval stone walls of Dubrovnik above the Adriatic Sea
+    Croatia
+
+  europe-iceland.jpg
+  → Photo of: Green/violet Aurora Borealis (Northern Lights) over snowy
+    landscape or mountains, Iceland
+
+---------------------------------------------------
+  ANTARCTICA  (6 images)
+---------------------------------------------------
+
+  ant-peninsula.jpg
+  → Photo of: Penguins (gentoo or chinstrap) on a rocky beach with icebergs
+    Antarctic Peninsula
+
+  ant-ross-shelf.jpg
+  → Photo of: Towering flat-topped ice cliffs or ice shelf wall
+    Ross Ice Shelf / Antarctica
+
+  ant-south-georgia.jpg
+  → Photo of: Large colony of king penguins on a beach
+    South Georgia Island
+
+  ant-weddell.jpg
+  → Photo of: Large bright blue iceberg floating in dark polar water
+    Weddell Sea / Antarctica
+
+  ant-deception.jpg
+  → Photo of: Black volcanic sand beach with snow and ice
+    OR: Inside crater landscape, Deception Island, Antarctica
+
+  ant-erebus.jpg
+  → Photo of: Snow-covered volcano with steam plume rising from summit
+    Mount Erebus, Ross Island, Antarctica
+
+---------------------------------------------------
+  SITE IMAGES  (upload to /img/ folder)
+---------------------------------------------------
+
+  logo.png
+  → Your travel guide logo
+    Suggested size: up to 360 x 50 px, transparent PNG
+
+  header-banner.jpg
+  → A wide landscape travel photo used as homepage hero background
+    Suggested size: 1400 x 500 px
+    Ideas: aerial view of a coastline, mountain range, or ancient ruins
+
+===================================================
